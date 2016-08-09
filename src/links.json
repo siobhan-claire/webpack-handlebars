@@ -1,0 +1,7 @@
+{
+  "links": [
+    {"name": "Link 1", "path": "./templates/footer.hbs"},
+    {"name": "Link 2", "path": "./templates/footer.hbs"},
+    {"name": "Link 3", "path": "./templates/footer.hbs"}
+  ]
+}
